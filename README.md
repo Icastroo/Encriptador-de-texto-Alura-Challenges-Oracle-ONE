@@ -38,5 +38,5 @@ Las llaves de encriptacion solicitadas son las siguientes:
 
 ## Author:
 
-- Github - [Icastroo](https://github.com/Icastroo)
-- Linkedin - [Ignacio Sebastian E](https://www.linkedin.com/in/ignacio-castroo/)
+- Github - [Ignaciiodev](https://github.com/Ignaciiodev)
+- Linkedin - [Ignacio Sebastian E](https://www.linkedin.com/in/ignaciodev/)
